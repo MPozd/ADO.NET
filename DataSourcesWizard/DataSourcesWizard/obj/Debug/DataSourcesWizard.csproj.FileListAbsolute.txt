@@ -1,0 +1,10 @@
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\DataSourcesWizard\DataSourcesWizard\bin\Debug\DataSourcesWizard.exe.config
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\DataSourcesWizard\DataSourcesWizard\bin\Debug\DataSourcesWizard.exe
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\DataSourcesWizard\DataSourcesWizard\bin\Debug\DataSourcesWizard.pdb
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\DataSourcesWizard\DataSourcesWizard\obj\Debug\DataSourcesWizard.csprojAssemblyReference.cache
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\DataSourcesWizard\DataSourcesWizard\obj\Debug\DataSourcesWizard.Form1.resources
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\DataSourcesWizard\DataSourcesWizard\obj\Debug\DataSourcesWizard.Properties.Resources.resources
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\DataSourcesWizard\DataSourcesWizard\obj\Debug\DataSourcesWizard.csproj.GenerateResource.cache
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\DataSourcesWizard\DataSourcesWizard\obj\Debug\DataSourcesWizard.csproj.CoreCompileInputs.cache
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\DataSourcesWizard\DataSourcesWizard\obj\Debug\DataSourcesWizard.exe
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\DataSourcesWizard\DataSourcesWizard\obj\Debug\DataSourcesWizard.pdb

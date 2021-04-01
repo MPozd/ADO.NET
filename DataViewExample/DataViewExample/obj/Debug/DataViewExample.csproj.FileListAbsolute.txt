@@ -1,0 +1,10 @@
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\DataViewExample\DataViewExample\bin\Debug\DataViewExample.exe.config
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\DataViewExample\DataViewExample\bin\Debug\DataViewExample.exe
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\DataViewExample\DataViewExample\bin\Debug\DataViewExample.pdb
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\DataViewExample\DataViewExample\obj\Debug\DataViewExample.csprojAssemblyReference.cache
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\DataViewExample\DataViewExample\obj\Debug\DataViewExample.Form1.resources
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\DataViewExample\DataViewExample\obj\Debug\DataViewExample.Properties.Resources.resources
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\DataViewExample\DataViewExample\obj\Debug\DataViewExample.csproj.GenerateResource.cache
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\DataViewExample\DataViewExample\obj\Debug\DataViewExample.csproj.CoreCompileInputs.cache
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\DataViewExample\DataViewExample\obj\Debug\DataViewExample.exe
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\DataViewExample\DataViewExample\obj\Debug\DataViewExample.pdb

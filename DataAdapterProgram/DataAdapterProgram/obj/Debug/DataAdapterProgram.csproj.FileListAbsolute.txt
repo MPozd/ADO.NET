@@ -1,0 +1,10 @@
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\DataAdapterProgram\DataAdapterProgram\bin\Debug\DataAdapterProgram.exe.config
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\DataAdapterProgram\DataAdapterProgram\bin\Debug\DataAdapterProgram.exe
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\DataAdapterProgram\DataAdapterProgram\bin\Debug\DataAdapterProgram.pdb
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\DataAdapterProgram\DataAdapterProgram\obj\Debug\DataAdapterProgram.csprojAssemblyReference.cache
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\DataAdapterProgram\DataAdapterProgram\obj\Debug\DataAdapterProgram.Form1.resources
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\DataAdapterProgram\DataAdapterProgram\obj\Debug\DataAdapterProgram.Properties.Resources.resources
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\DataAdapterProgram\DataAdapterProgram\obj\Debug\DataAdapterProgram.csproj.GenerateResource.cache
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\DataAdapterProgram\DataAdapterProgram\obj\Debug\DataAdapterProgram.csproj.CoreCompileInputs.cache
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\DataAdapterProgram\DataAdapterProgram\obj\Debug\DataAdapterProgram.exe
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\DataAdapterProgram\DataAdapterProgram\obj\Debug\DataAdapterProgram.pdb

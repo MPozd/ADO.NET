@@ -1,0 +1,10 @@
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\DBCommand\DBCommand\bin\Debug\DBCommand.exe.config
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\DBCommand\DBCommand\bin\Debug\DBCommand.exe
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\DBCommand\DBCommand\bin\Debug\DBCommand.pdb
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\DBCommand\DBCommand\obj\Debug\DBCommand.csprojAssemblyReference.cache
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\DBCommand\DBCommand\obj\Debug\DBCommand.Form1.resources
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\DBCommand\DBCommand\obj\Debug\DBCommand.Properties.Resources.resources
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\DBCommand\DBCommand\obj\Debug\DBCommand.csproj.GenerateResource.cache
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\DBCommand\DBCommand\obj\Debug\DBCommand.csproj.CoreCompileInputs.cache
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\DBCommand\DBCommand\obj\Debug\DBCommand.exe
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\DBCommand\DBCommand\obj\Debug\DBCommand.pdb
