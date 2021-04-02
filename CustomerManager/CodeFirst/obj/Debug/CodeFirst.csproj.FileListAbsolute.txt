@@ -1,0 +1,23 @@
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\CustomerManager\CodeFirst\bin\Debug\CodeFirst.dll.config
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\CustomerManager\CodeFirst\bin\Debug\CodeFirst.dll
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\CustomerManager\CodeFirst\bin\Debug\CodeFirst.pdb
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\CustomerManager\CodeFirst\bin\Debug\EntityFramework.dll
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\CustomerManager\CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\CustomerManager\CodeFirst\bin\Debug\EntityFramework.xml
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\CustomerManager\CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\CustomerManager\CodeFirst\obj\Debug\CodeFirst.csprojAssemblyReference.cache
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\CustomerManager\CodeFirst\obj\Debug\CodeFirst.csproj.CopyComplete
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\CustomerManager\CodeFirst\obj\Debug\CodeFirst.dll
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\CustomerManager\CodeFirst\obj\Debug\CodeFirst.pdb
+D:\учеба\Четвертый курс\Осипов\Lab_4\CustomerManager\CodeFirst\bin\Debug\CodeFirst.dll.config
+D:\учеба\Четвертый курс\Осипов\Lab_4\CustomerManager\CodeFirst\bin\Debug\CodeFirst.dll
+D:\учеба\Четвертый курс\Осипов\Lab_4\CustomerManager\CodeFirst\bin\Debug\CodeFirst.pdb
+D:\учеба\Четвертый курс\Осипов\Lab_4\CustomerManager\CodeFirst\bin\Debug\EntityFramework.dll
+D:\учеба\Четвертый курс\Осипов\Lab_4\CustomerManager\CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+D:\учеба\Четвертый курс\Осипов\Lab_4\CustomerManager\CodeFirst\bin\Debug\EntityFramework.xml
+D:\учеба\Четвертый курс\Осипов\Lab_4\CustomerManager\CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+D:\учеба\Четвертый курс\Осипов\Lab_4\CustomerManager\CodeFirst\obj\Debug\CodeFirst.csprojAssemblyReference.cache
+D:\учеба\Четвертый курс\Осипов\Lab_4\CustomerManager\CodeFirst\obj\Debug\CodeFirst.csproj.CoreCompileInputs.cache
+D:\учеба\Четвертый курс\Осипов\Lab_4\CustomerManager\CodeFirst\obj\Debug\CodeFirst.csproj.CopyComplete
+D:\учеба\Четвертый курс\Осипов\Lab_4\CustomerManager\CodeFirst\obj\Debug\CodeFirst.dll
+D:\учеба\Четвертый курс\Осипов\Lab_4\CustomerManager\CodeFirst\obj\Debug\CodeFirst.pdb

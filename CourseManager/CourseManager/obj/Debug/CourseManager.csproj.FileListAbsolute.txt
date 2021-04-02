@@ -1,0 +1,107 @@
+C:\Users\lenovo\source\repos\CourseManager\CourseManager\bin\Debug\CourseManager.exe.config
+C:\Users\lenovo\source\repos\CourseManager\CourseManager\bin\Debug\CourseManager.exe
+C:\Users\lenovo\source\repos\CourseManager\CourseManager\bin\Debug\CourseManager.pdb
+C:\Users\lenovo\source\repos\CourseManager\CourseManager\obj\Debug\CourseManager.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\CourseManager\CourseManager\obj\Debug\CourseManager.CourseViewer.resources
+C:\Users\lenovo\source\repos\CourseManager\CourseManager\obj\Debug\CourseManager.Properties.Resources.resources
+C:\Users\lenovo\source\repos\CourseManager\CourseManager\obj\Debug\CourseManager.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\CourseManager\CourseManager\obj\Debug\CourseManager.exe
+C:\Users\lenovo\source\repos\CourseManager\CourseManager\obj\Debug\CourseManager.pdb
+C:\Users\lenovo\source\repos\CourseManager\CourseManager\bin\Debug\EntityFramework.dll
+C:\Users\lenovo\source\repos\CourseManager\CourseManager\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lenovo\source\repos\CourseManager\CourseManager\bin\Debug\EntityFramework.xml
+C:\Users\lenovo\source\repos\CourseManager\CourseManager\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lenovo\source\repos\CourseManager\CourseManager\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\lenovo\source\repos\CourseManager\CourseManager\obj\Debug\CourseManager.csproj.CopyComplete
+D:\учеба\Четвертый курс\Осипов\Lab_4\CourseManager\CourseManager\obj\Debug\CourseManager.csprojAssemblyReference.cache
+D:\учеба\Четвертый курс\Осипов\Lab_4\CourseManager\CourseManager\obj\Debug\CourseManager.exe.config
+D:\учеба\Четвертый курс\Осипов\Lab_4\CourseManager\CourseManager\obj\Debug\CourseManager.CourseViewer.resources
+D:\учеба\Четвертый курс\Осипов\Lab_4\CourseManager\CourseManager\obj\Debug\CourseManager.OfficeAssignment.resources
+D:\учеба\Четвертый курс\Осипов\Lab_4\CourseManager\CourseManager\obj\Debug\CourseManager.Properties.Resources.resources
+D:\учеба\Четвертый курс\Осипов\Lab_4\CourseManager\CourseManager\obj\Debug\CourseManager.csproj.GenerateResource.cache
+D:\учеба\Четвертый курс\Осипов\Lab_4\CourseManager\CourseManager\obj\Debug\CourseManager.csproj.CoreCompileInputs.cache
+D:\учеба\Четвертый курс\Осипов\Lab_4\CourseManager\CourseManager\obj\Debug\CourseManager.exe
+D:\учеба\Четвертый курс\Осипов\Lab_4\CourseManager\CourseManager\obj\Debug\CourseManager.pdb
+D:\учеба\Четвертый курс\Осипов\Lab_4\CourseManager\CourseManager\bin\Debug\CourseManager.exe.config
+D:\учеба\Четвертый курс\Осипов\Lab_4\CourseManager\CourseManager\bin\Debug\CourseManager.exe
+D:\учеба\Четвертый курс\Осипов\Lab_4\CourseManager\CourseManager\bin\Debug\CourseManager.pdb
+D:\учеба\Четвертый курс\Осипов\Lab_4\CourseManager\CourseManager\bin\Debug\EntityFramework.dll
+D:\учеба\Четвертый курс\Осипов\Lab_4\CourseManager\CourseManager\bin\Debug\EntityFramework.SqlServer.dll
+D:\учеба\Четвертый курс\Осипов\Lab_4\CourseManager\CourseManager\bin\Debug\Microsoft.VisualStudio.Data.Tools.SqlObjectExplorer.dll
+D:\учеба\Четвертый курс\Осипов\Lab_4\CourseManager\CourseManager\bin\Debug\Microsoft.VisualStudio.Shell.15.0.dll
+D:\учеба\Четвертый курс\Осипов\Lab_4\CourseManager\CourseManager\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\учеба\Четвертый курс\Осипов\Lab_4\CourseManager\CourseManager\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\учеба\Четвертый курс\Осипов\Lab_4\CourseManager\CourseManager\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\учеба\Четвертый курс\Осипов\Lab_4\CourseManager\CourseManager\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\учеба\Четвертый курс\Осипов\Lab_4\CourseManager\CourseManager\bin\Debug\Microsoft.Data.Tools.Design.Core.dll
+D:\учеба\Четвертый курс\Осипов\Lab_4\CourseManager\CourseManager\bin\Debug\Microsoft.VisualStudio.Shell.Framework.dll
+D:\учеба\Четвертый курс\Осипов\Lab_4\CourseManager\CourseManager\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\учеба\Четвертый курс\Осипов\Lab_4\CourseManager\CourseManager\bin\Debug\EnvDTE.dll
+D:\учеба\Четвертый курс\Осипов\Lab_4\CourseManager\CourseManager\bin\Debug\Microsoft.Data.Tools.Components.dll
+D:\учеба\Четвертый курс\Осипов\Lab_4\CourseManager\CourseManager\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+D:\учеба\Четвертый курс\Осипов\Lab_4\CourseManager\CourseManager\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\учеба\Четвертый курс\Осипов\Lab_4\CourseManager\CourseManager\bin\Debug\Microsoft.VisualStudio.RpcContracts.dll
+D:\учеба\Четвертый курс\Осипов\Lab_4\CourseManager\CourseManager\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+D:\учеба\Четвертый курс\Осипов\Lab_4\CourseManager\CourseManager\bin\Debug\System.Collections.Immutable.dll
+D:\учеба\Четвертый курс\Осипов\Lab_4\CourseManager\CourseManager\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\учеба\Четвертый курс\Осипов\Lab_4\CourseManager\CourseManager\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\учеба\Четвертый курс\Осипов\Lab_4\CourseManager\CourseManager\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\учеба\Четвертый курс\Осипов\Lab_4\CourseManager\CourseManager\bin\Debug\Microsoft.Build.Framework.dll
+D:\учеба\Четвертый курс\Осипов\Lab_4\CourseManager\CourseManager\bin\Debug\stdole.dll
+D:\учеба\Четвертый курс\Осипов\Lab_4\CourseManager\CourseManager\bin\Debug\System.Memory.dll
+D:\учеба\Четвертый курс\Осипов\Lab_4\CourseManager\CourseManager\bin\Debug\System.IO.Pipelines.dll
+D:\учеба\Четвертый курс\Осипов\Lab_4\CourseManager\CourseManager\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\учеба\Четвертый курс\Осипов\Lab_4\CourseManager\CourseManager\bin\Debug\Microsoft.MSXML.dll
+D:\учеба\Четвертый курс\Осипов\Lab_4\CourseManager\CourseManager\bin\Debug\System.Buffers.dll
+D:\учеба\Четвертый курс\Осипов\Lab_4\CourseManager\CourseManager\bin\Debug\EntityFramework.xml
+D:\учеба\Четвертый курс\Осипов\Lab_4\CourseManager\CourseManager\bin\Debug\EntityFramework.SqlServer.xml
+D:\учеба\Четвертый курс\Осипов\Lab_4\CourseManager\CourseManager\bin\Debug\Microsoft.VisualStudio.GraphModel.xml
+D:\учеба\Четвертый курс\Осипов\Lab_4\CourseManager\CourseManager\bin\Debug\ru\EntityFramework.resources.dll
+D:\учеба\Четвертый курс\Осипов\Lab_4\CourseManager\CourseManager\bin\Debug\ru\Microsoft.VisualStudio.Data.Tools.SqlObjectExplorer.resources.dll
+D:\учеба\Четвертый курс\Осипов\Lab_4\CourseManager\CourseManager\bin\Debug\ru\Microsoft.VisualStudio.Shell.15.0.resources.dll
+D:\учеба\Четвертый курс\Осипов\Lab_4\CourseManager\CourseManager\bin\Debug\ru\Microsoft.Data.Tools.Components.resources.dll
+D:\учеба\Четвертый курс\Осипов\Lab_4\CourseManager\CourseManager\bin\Debug\ru\Microsoft.VisualStudio.GraphModel.resources.dll
+D:\учеба\Четвертый курс\Осипов\Lab_4\CourseManager\CourseManager\obj\Debug\CourseManager.csproj.CopyComplete
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\CourseManager\CourseManager\bin\Debug\CourseManager.exe.config
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\CourseManager\CourseManager\bin\Debug\CourseManager.exe
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\CourseManager\CourseManager\bin\Debug\CourseManager.pdb
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\CourseManager\CourseManager\bin\Debug\EntityFramework.dll
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\CourseManager\CourseManager\bin\Debug\EntityFramework.SqlServer.dll
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\CourseManager\CourseManager\bin\Debug\Microsoft.VisualStudio.Data.Tools.SqlObjectExplorer.dll
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\CourseManager\CourseManager\bin\Debug\Microsoft.VisualStudio.Shell.15.0.dll
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\CourseManager\CourseManager\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\CourseManager\CourseManager\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\CourseManager\CourseManager\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\CourseManager\CourseManager\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\CourseManager\CourseManager\bin\Debug\Microsoft.Data.Tools.Design.Core.dll
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\CourseManager\CourseManager\bin\Debug\Microsoft.VisualStudio.Shell.Framework.dll
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\CourseManager\CourseManager\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\CourseManager\CourseManager\bin\Debug\EnvDTE.dll
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\CourseManager\CourseManager\bin\Debug\Microsoft.Data.Tools.Components.dll
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\CourseManager\CourseManager\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\CourseManager\CourseManager\bin\Debug\System.Threading.Tasks.Dataflow.dll
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\CourseManager\CourseManager\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\CourseManager\CourseManager\bin\Debug\System.Collections.Immutable.dll
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\CourseManager\CourseManager\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\CourseManager\CourseManager\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\CourseManager\CourseManager\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\CourseManager\CourseManager\bin\Debug\Microsoft.Build.Framework.dll
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\CourseManager\CourseManager\bin\Debug\stdole.dll
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\CourseManager\CourseManager\bin\Debug\Microsoft.MSXML.dll
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\CourseManager\CourseManager\bin\Debug\EntityFramework.xml
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\CourseManager\CourseManager\bin\Debug\EntityFramework.SqlServer.xml
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\CourseManager\CourseManager\bin\Debug\ru\EntityFramework.resources.dll
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\CourseManager\CourseManager\bin\Debug\ru\Microsoft.VisualStudio.Data.Tools.SqlObjectExplorer.resources.dll
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\CourseManager\CourseManager\bin\Debug\ru\Microsoft.VisualStudio.Shell.15.0.resources.dll
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\CourseManager\CourseManager\bin\Debug\ru\Microsoft.Data.Tools.Components.resources.dll
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\CourseManager\CourseManager\bin\Debug\ru\Microsoft.VisualStudio.GraphModel.resources.dll
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\CourseManager\CourseManager\obj\Debug\CourseManager.csprojAssemblyReference.cache
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\CourseManager\CourseManager\obj\Debug\CourseManager.exe.config
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\CourseManager\CourseManager\obj\Debug\CourseManager.CourseViewer.resources
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\CourseManager\CourseManager\obj\Debug\CourseManager.OfficeAssignment.resources
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\CourseManager\CourseManager\obj\Debug\CourseManager.Properties.Resources.resources
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\CourseManager\CourseManager\obj\Debug\CourseManager.csproj.GenerateResource.cache
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\CourseManager\CourseManager\obj\Debug\CourseManager.csproj.CoreCompileInputs.cache
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\CourseManager\CourseManager\obj\Debug\CourseManager.csproj.CopyComplete
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\CourseManager\CourseManager\obj\Debug\CourseManager.exe
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\CourseManager\CourseManager\obj\Debug\CourseManager.pdb

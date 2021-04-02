@@ -1,0 +1,65 @@
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\CustomerManager\CustomerManager\bin\Debug\CustomerManager.exe.config
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\CustomerManager\CustomerManager\bin\Debug\CustomerManager.exe
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\CustomerManager\CustomerManager\bin\Debug\CustomerManager.pdb
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\CustomerManager\CustomerManager\obj\Debug\CustomerManager.csprojAssemblyReference.cache
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\CustomerManager\CustomerManager\obj\Debug\CustomerManager.CustomerViewer.resources
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\CustomerManager\CustomerManager\obj\Debug\CustomerManager.Properties.Resources.resources
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\CustomerManager\CustomerManager\obj\Debug\CustomerManager.csproj.GenerateResource.cache
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\CustomerManager\CustomerManager\obj\Debug\CustomerManager.exe
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\CustomerManager\CustomerManager\obj\Debug\CustomerManager.pdb
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\CustomerManager\CustomerManager\bin\Debug\CodeFirst.dll
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\CustomerManager\CustomerManager\bin\Debug\EntityFramework.dll
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\CustomerManager\CustomerManager\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\CustomerManager\CustomerManager\bin\Debug\Microsoft.Azure.Common.dll
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\CustomerManager\CustomerManager\bin\Debug\Microsoft.Azure.Common.NetFramework.dll
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\CustomerManager\CustomerManager\bin\Debug\Hyak.Common.dll
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\CustomerManager\CustomerManager\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\CustomerManager\CustomerManager\bin\Debug\CodeFirst.pdb
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\CustomerManager\CustomerManager\bin\Debug\CodeFirst.dll.config
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\CustomerManager\CustomerManager\bin\Debug\EntityFramework.xml
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\CustomerManager\CustomerManager\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\CustomerManager\CustomerManager\obj\Debug\CustomerManager.csproj.CopyComplete
+D:\учеба\Четвертый курс\Осипов\Lab_4\CustomerManager\CustomerManager\bin\Debug\CustomerManager.exe.config
+D:\учеба\Четвертый курс\Осипов\Lab_4\CustomerManager\CustomerManager\bin\Debug\CustomerManager.exe
+D:\учеба\Четвертый курс\Осипов\Lab_4\CustomerManager\CustomerManager\bin\Debug\CustomerManager.pdb
+D:\учеба\Четвертый курс\Осипов\Lab_4\CustomerManager\CustomerManager\bin\Debug\CodeFirst.dll
+D:\учеба\Четвертый курс\Осипов\Lab_4\CustomerManager\CustomerManager\bin\Debug\EntityFramework.dll
+D:\учеба\Четвертый курс\Осипов\Lab_4\CustomerManager\CustomerManager\bin\Debug\EntityFramework.SqlServer.dll
+D:\учеба\Четвертый курс\Осипов\Lab_4\CustomerManager\CustomerManager\bin\Debug\Microsoft.Azure.Common.dll
+D:\учеба\Четвертый курс\Осипов\Lab_4\CustomerManager\CustomerManager\bin\Debug\Microsoft.Azure.Common.NetFramework.dll
+D:\учеба\Четвертый курс\Осипов\Lab_4\CustomerManager\CustomerManager\bin\Debug\Hyak.Common.dll
+D:\учеба\Четвертый курс\Осипов\Lab_4\CustomerManager\CustomerManager\bin\Debug\Newtonsoft.Json.dll
+D:\учеба\Четвертый курс\Осипов\Lab_4\CustomerManager\CustomerManager\bin\Debug\CodeFirst.pdb
+D:\учеба\Четвертый курс\Осипов\Lab_4\CustomerManager\CustomerManager\bin\Debug\CodeFirst.dll.config
+D:\учеба\Четвертый курс\Осипов\Lab_4\CustomerManager\CustomerManager\bin\Debug\EntityFramework.xml
+D:\учеба\Четвертый курс\Осипов\Lab_4\CustomerManager\CustomerManager\bin\Debug\EntityFramework.SqlServer.xml
+D:\учеба\Четвертый курс\Осипов\Lab_4\CustomerManager\CustomerManager\obj\Debug\CustomerManager.csprojAssemblyReference.cache
+D:\учеба\Четвертый курс\Осипов\Lab_4\CustomerManager\CustomerManager\obj\Debug\CustomerManager.CustomerViewer.resources
+D:\учеба\Четвертый курс\Осипов\Lab_4\CustomerManager\CustomerManager\obj\Debug\CustomerManager.Properties.Resources.resources
+D:\учеба\Четвертый курс\Осипов\Lab_4\CustomerManager\CustomerManager\obj\Debug\CustomerManager.csproj.GenerateResource.cache
+D:\учеба\Четвертый курс\Осипов\Lab_4\CustomerManager\CustomerManager\obj\Debug\CustomerManager.csproj.CoreCompileInputs.cache
+D:\учеба\Четвертый курс\Осипов\Lab_4\CustomerManager\CustomerManager\obj\Debug\CustomerManager.csproj.CopyComplete
+D:\учеба\Четвертый курс\Осипов\Lab_4\CustomerManager\CustomerManager\obj\Debug\CustomerManager.exe
+D:\учеба\Четвертый курс\Осипов\Lab_4\CustomerManager\CustomerManager\obj\Debug\CustomerManager.pdb
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\CustomerManager\CustomerManager\bin\Debug\CustomerManager.exe.config
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\CustomerManager\CustomerManager\bin\Debug\CustomerManager.exe
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\CustomerManager\CustomerManager\bin\Debug\CustomerManager.pdb
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\CustomerManager\CustomerManager\bin\Debug\CodeFirst.dll
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\CustomerManager\CustomerManager\bin\Debug\EntityFramework.dll
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\CustomerManager\CustomerManager\bin\Debug\EntityFramework.SqlServer.dll
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\CustomerManager\CustomerManager\bin\Debug\Microsoft.Azure.Common.dll
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\CustomerManager\CustomerManager\bin\Debug\Microsoft.Azure.Common.NetFramework.dll
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\CustomerManager\CustomerManager\bin\Debug\Hyak.Common.dll
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\CustomerManager\CustomerManager\bin\Debug\Newtonsoft.Json.dll
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\CustomerManager\CustomerManager\bin\Debug\CodeFirst.pdb
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\CustomerManager\CustomerManager\bin\Debug\CodeFirst.dll.config
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\CustomerManager\CustomerManager\bin\Debug\EntityFramework.xml
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\CustomerManager\CustomerManager\bin\Debug\EntityFramework.SqlServer.xml
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\CustomerManager\CustomerManager\obj\Debug\CustomerManager.csprojAssemblyReference.cache
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\CustomerManager\CustomerManager\obj\Debug\CustomerManager.CustomerViewer.resources
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\CustomerManager\CustomerManager\obj\Debug\CustomerManager.Properties.Resources.resources
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\CustomerManager\CustomerManager\obj\Debug\CustomerManager.csproj.GenerateResource.cache
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\CustomerManager\CustomerManager\obj\Debug\CustomerManager.csproj.CoreCompileInputs.cache
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\CustomerManager\CustomerManager\obj\Debug\CustomerManager.csproj.CopyComplete
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\CustomerManager\CustomerManager\obj\Debug\CustomerManager.exe
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\CustomerManager\CustomerManager\obj\Debug\CustomerManager.pdb

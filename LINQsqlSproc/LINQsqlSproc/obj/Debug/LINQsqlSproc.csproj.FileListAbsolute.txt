@@ -1,0 +1,19 @@
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\LINQsqlSproc\LINQsqlSproc\bin\Debug\LINQsqlSproc.exe.config
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\LINQsqlSproc\LINQsqlSproc\bin\Debug\LINQsqlSproc.exe
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\LINQsqlSproc\LINQsqlSproc\bin\Debug\LINQsqlSproc.pdb
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\LINQsqlSproc\LINQsqlSproc\obj\Debug\LINQsqlSproc.csprojAssemblyReference.cache
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\LINQsqlSproc\LINQsqlSproc\obj\Debug\LINQsqlSproc.Form1.resources
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\LINQsqlSproc\LINQsqlSproc\obj\Debug\LINQsqlSproc.Properties.Resources.resources
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\LINQsqlSproc\LINQsqlSproc\obj\Debug\LINQsqlSproc.csproj.GenerateResource.cache
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\LINQsqlSproc\LINQsqlSproc\obj\Debug\LINQsqlSproc.exe
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\LINQsqlSproc\LINQsqlSproc\obj\Debug\LINQsqlSproc.pdb
+D:\учеба\Четвертый курс\Осипов\Lab_4\LINQsqlSproc\LINQsqlSproc\bin\Debug\LINQsqlSproc.exe.config
+D:\учеба\Четвертый курс\Осипов\Lab_4\LINQsqlSproc\LINQsqlSproc\bin\Debug\LINQsqlSproc.exe
+D:\учеба\Четвертый курс\Осипов\Lab_4\LINQsqlSproc\LINQsqlSproc\bin\Debug\LINQsqlSproc.pdb
+D:\учеба\Четвертый курс\Осипов\Lab_4\LINQsqlSproc\LINQsqlSproc\obj\Debug\LINQsqlSproc.csprojAssemblyReference.cache
+D:\учеба\Четвертый курс\Осипов\Lab_4\LINQsqlSproc\LINQsqlSproc\obj\Debug\LINQsqlSproc.Form1.resources
+D:\учеба\Четвертый курс\Осипов\Lab_4\LINQsqlSproc\LINQsqlSproc\obj\Debug\LINQsqlSproc.Properties.Resources.resources
+D:\учеба\Четвертый курс\Осипов\Lab_4\LINQsqlSproc\LINQsqlSproc\obj\Debug\LINQsqlSproc.csproj.GenerateResource.cache
+D:\учеба\Четвертый курс\Осипов\Lab_4\LINQsqlSproc\LINQsqlSproc\obj\Debug\LINQsqlSproc.csproj.CoreCompileInputs.cache
+D:\учеба\Четвертый курс\Осипов\Lab_4\LINQsqlSproc\LINQsqlSproc\obj\Debug\LINQsqlSproc.exe
+D:\учеба\Четвертый курс\Осипов\Lab_4\LINQsqlSproc\LINQsqlSproc\obj\Debug\LINQsqlSproc.pdb
