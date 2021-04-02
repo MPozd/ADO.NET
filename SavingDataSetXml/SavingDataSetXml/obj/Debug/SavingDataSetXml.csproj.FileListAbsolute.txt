@@ -1,0 +1,19 @@
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\SavingDataSetXml\SavingDataSetXml\bin\Debug\SavingDataSetXml.exe.config
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\SavingDataSetXml\SavingDataSetXml\bin\Debug\SavingDataSetXml.exe
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\SavingDataSetXml\SavingDataSetXml\bin\Debug\SavingDataSetXml.pdb
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.csprojAssemblyReference.cache
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.Form1.resources
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.Properties.Resources.resources
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.csproj.GenerateResource.cache
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.exe
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.pdb
+D:\учеба\Четвертый курс\Осипов\Lab_4\SavingDataSetXml\SavingDataSetXml\bin\Debug\SavingDataSetXml.exe.config
+D:\учеба\Четвертый курс\Осипов\Lab_4\SavingDataSetXml\SavingDataSetXml\bin\Debug\SavingDataSetXml.exe
+D:\учеба\Четвертый курс\Осипов\Lab_4\SavingDataSetXml\SavingDataSetXml\bin\Debug\SavingDataSetXml.pdb
+D:\учеба\Четвертый курс\Осипов\Lab_4\SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.csprojAssemblyReference.cache
+D:\учеба\Четвертый курс\Осипов\Lab_4\SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.Form1.resources
+D:\учеба\Четвертый курс\Осипов\Lab_4\SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.Properties.Resources.resources
+D:\учеба\Четвертый курс\Осипов\Lab_4\SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.csproj.GenerateResource.cache
+D:\учеба\Четвертый курс\Осипов\Lab_4\SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.csproj.CoreCompileInputs.cache
+D:\учеба\Четвертый курс\Осипов\Lab_4\SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.exe
+D:\учеба\Четвертый курс\Осипов\Lab_4\SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.pdb

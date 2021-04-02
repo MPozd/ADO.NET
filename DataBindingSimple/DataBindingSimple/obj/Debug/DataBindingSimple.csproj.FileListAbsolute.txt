@@ -1,0 +1,19 @@
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\DataBindingSimple\DataBindingSimple\bin\Debug\DataBindingSimple.exe.config
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\DataBindingSimple\DataBindingSimple\bin\Debug\DataBindingSimple.exe
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\DataBindingSimple\DataBindingSimple\bin\Debug\DataBindingSimple.pdb
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\DataBindingSimple\DataBindingSimple\obj\Debug\DataBindingSimple.csprojAssemblyReference.cache
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\DataBindingSimple\DataBindingSimple\obj\Debug\DataBindingSimple.Properties.Resources.resources
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\DataBindingSimple\DataBindingSimple\obj\Debug\DataBindingSimple.csproj.GenerateResource.cache
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\DataBindingSimple\DataBindingSimple\obj\Debug\DataBindingSimple.exe
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\DataBindingSimple\DataBindingSimple\obj\Debug\DataBindingSimple.pdb
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\DataBindingSimple\DataBindingSimple\obj\Debug\DataBindingSimple.Form1.resources
+D:\учеба\Четвертый курс\Осипов\Lab_4\DataBindingSimple\DataBindingSimple\bin\Debug\DataBindingSimple.exe.config
+D:\учеба\Четвертый курс\Осипов\Lab_4\DataBindingSimple\DataBindingSimple\bin\Debug\DataBindingSimple.exe
+D:\учеба\Четвертый курс\Осипов\Lab_4\DataBindingSimple\DataBindingSimple\bin\Debug\DataBindingSimple.pdb
+D:\учеба\Четвертый курс\Осипов\Lab_4\DataBindingSimple\DataBindingSimple\obj\Debug\DataBindingSimple.csprojAssemblyReference.cache
+D:\учеба\Четвертый курс\Осипов\Lab_4\DataBindingSimple\DataBindingSimple\obj\Debug\DataBindingSimple.Form1.resources
+D:\учеба\Четвертый курс\Осипов\Lab_4\DataBindingSimple\DataBindingSimple\obj\Debug\DataBindingSimple.Properties.Resources.resources
+D:\учеба\Четвертый курс\Осипов\Lab_4\DataBindingSimple\DataBindingSimple\obj\Debug\DataBindingSimple.csproj.GenerateResource.cache
+D:\учеба\Четвертый курс\Осипов\Lab_4\DataBindingSimple\DataBindingSimple\obj\Debug\DataBindingSimple.csproj.CoreCompileInputs.cache
+D:\учеба\Четвертый курс\Осипов\Lab_4\DataBindingSimple\DataBindingSimple\obj\Debug\DataBindingSimple.exe
+D:\учеба\Четвертый курс\Осипов\Lab_4\DataBindingSimple\DataBindingSimple\obj\Debug\DataBindingSimple.pdb

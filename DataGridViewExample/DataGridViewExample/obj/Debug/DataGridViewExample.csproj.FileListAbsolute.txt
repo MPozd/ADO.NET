@@ -1,0 +1,19 @@
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\DataGridViewExample\DataGridViewExample\bin\Debug\DataGridViewExample.exe.config
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\DataGridViewExample\DataGridViewExample\bin\Debug\DataGridViewExample.exe
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\DataGridViewExample\DataGridViewExample\bin\Debug\DataGridViewExample.pdb
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\DataGridViewExample\DataGridViewExample\obj\Debug\DataGridViewExample.csprojAssemblyReference.cache
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\DataGridViewExample\DataGridViewExample\obj\Debug\DataGridViewExample.Form1.resources
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\DataGridViewExample\DataGridViewExample\obj\Debug\DataGridViewExample.Properties.Resources.resources
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\DataGridViewExample\DataGridViewExample\obj\Debug\DataGridViewExample.csproj.GenerateResource.cache
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\DataGridViewExample\DataGridViewExample\obj\Debug\DataGridViewExample.exe
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\DataGridViewExample\DataGridViewExample\obj\Debug\DataGridViewExample.pdb
+D:\учеба\Четвертый курс\Осипов\Lab_4\DataGridViewExample\DataGridViewExample\bin\Debug\DataGridViewExample.exe.config
+D:\учеба\Четвертый курс\Осипов\Lab_4\DataGridViewExample\DataGridViewExample\bin\Debug\DataGridViewExample.exe
+D:\учеба\Четвертый курс\Осипов\Lab_4\DataGridViewExample\DataGridViewExample\bin\Debug\DataGridViewExample.pdb
+D:\учеба\Четвертый курс\Осипов\Lab_4\DataGridViewExample\DataGridViewExample\obj\Debug\DataGridViewExample.csprojAssemblyReference.cache
+D:\учеба\Четвертый курс\Осипов\Lab_4\DataGridViewExample\DataGridViewExample\obj\Debug\DataGridViewExample.Form1.resources
+D:\учеба\Четвертый курс\Осипов\Lab_4\DataGridViewExample\DataGridViewExample\obj\Debug\DataGridViewExample.Properties.Resources.resources
+D:\учеба\Четвертый курс\Осипов\Lab_4\DataGridViewExample\DataGridViewExample\obj\Debug\DataGridViewExample.csproj.GenerateResource.cache
+D:\учеба\Четвертый курс\Осипов\Lab_4\DataGridViewExample\DataGridViewExample\obj\Debug\DataGridViewExample.csproj.CoreCompileInputs.cache
+D:\учеба\Четвертый курс\Осипов\Lab_4\DataGridViewExample\DataGridViewExample\obj\Debug\DataGridViewExample.exe
+D:\учеба\Четвертый курс\Осипов\Lab_4\DataGridViewExample\DataGridViewExample\obj\Debug\DataGridViewExample.pdb
