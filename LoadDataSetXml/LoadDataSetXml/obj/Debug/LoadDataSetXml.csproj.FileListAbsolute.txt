@@ -1,0 +1,19 @@
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\LoadDataSetXml\LoadDataSetXml\bin\Debug\LoadDataSetXml.exe.config
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\LoadDataSetXml\LoadDataSetXml\bin\Debug\LoadDataSetXml.exe
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\LoadDataSetXml\LoadDataSetXml\bin\Debug\LoadDataSetXml.pdb
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\LoadDataSetXml\LoadDataSetXml\obj\Debug\LoadDataSetXml.csprojAssemblyReference.cache
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\LoadDataSetXml\LoadDataSetXml\obj\Debug\LoadDataSetXml.Form1.resources
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\LoadDataSetXml\LoadDataSetXml\obj\Debug\LoadDataSetXml.Properties.Resources.resources
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\LoadDataSetXml\LoadDataSetXml\obj\Debug\LoadDataSetXml.csproj.GenerateResource.cache
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\LoadDataSetXml\LoadDataSetXml\obj\Debug\LoadDataSetXml.exe
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\LoadDataSetXml\LoadDataSetXml\obj\Debug\LoadDataSetXml.pdb
+D:\учеба\Четвертый курс\Осипов\Lab_4\LoadDataSetXml\LoadDataSetXml\bin\Debug\LoadDataSetXml.exe.config
+D:\учеба\Четвертый курс\Осипов\Lab_4\LoadDataSetXml\LoadDataSetXml\bin\Debug\LoadDataSetXml.exe
+D:\учеба\Четвертый курс\Осипов\Lab_4\LoadDataSetXml\LoadDataSetXml\bin\Debug\LoadDataSetXml.pdb
+D:\учеба\Четвертый курс\Осипов\Lab_4\LoadDataSetXml\LoadDataSetXml\obj\Debug\LoadDataSetXml.csprojAssemblyReference.cache
+D:\учеба\Четвертый курс\Осипов\Lab_4\LoadDataSetXml\LoadDataSetXml\obj\Debug\LoadDataSetXml.Form1.resources
+D:\учеба\Четвертый курс\Осипов\Lab_4\LoadDataSetXml\LoadDataSetXml\obj\Debug\LoadDataSetXml.Properties.Resources.resources
+D:\учеба\Четвертый курс\Осипов\Lab_4\LoadDataSetXml\LoadDataSetXml\obj\Debug\LoadDataSetXml.csproj.GenerateResource.cache
+D:\учеба\Четвертый курс\Осипов\Lab_4\LoadDataSetXml\LoadDataSetXml\obj\Debug\LoadDataSetXml.csproj.CoreCompileInputs.cache
+D:\учеба\Четвертый курс\Осипов\Lab_4\LoadDataSetXml\LoadDataSetXml\obj\Debug\LoadDataSetXml.exe
+D:\учеба\Четвертый курс\Осипов\Lab_4\LoadDataSetXml\LoadDataSetXml\obj\Debug\LoadDataSetXml.pdb
